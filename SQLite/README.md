@@ -12,3 +12,9 @@
 ### DB browser:
     1. It will help us to see the databases being created and edited in real time. 
     2. Link - https://sqlitebrowser.org/
+
+### Connect with Database:
+    1.  Import sqlite3
+    2. Connect with database
+    3. Create cursor object
+    4. Execute commands
